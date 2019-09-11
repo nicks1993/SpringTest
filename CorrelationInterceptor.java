@@ -1,4 +1,4 @@
-package hello
+package hello;
 
 import org.apache.commons.lang.StringUtils;
 
